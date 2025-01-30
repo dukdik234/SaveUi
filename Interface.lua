@@ -3,9 +3,9 @@ local httpService = game:GetService("HttpService")
 local InterfaceManager = {} do
 	InterfaceManager.Folder = "XsalarySettings"
     InterfaceManager.Settings = {
-        Theme = "Light",
+        Theme = "Darker",
         Acrylic = true,
-        Transparency = true,
+        Transparency = false,
         MenuKeybind = "LeftControl"
     }
 
