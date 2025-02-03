@@ -1,7 +1,7 @@
 local httpService = game:GetService("HttpService")
 
 local SaveManager = {} do
-	SaveManager.Folder = "XsalarySettings"
+	SaveManager.Folder = "EMPEROR_X_Hub's"
 	SaveManager.Ignore = {}
 	SaveManager.Parser = {
 		Toggle = {
