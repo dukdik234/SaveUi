@@ -1,7 +1,7 @@
 local httpService = game:GetService("HttpService")
 
 local InterfaceManager = {} do
-	InterfaceManager.Folder = "XsalarySettings"
+	InterfaceManager.Folder = "EMPEROR_X_Hub's"
     InterfaceManager.Settings = {
         Theme = "Darker",
         Acrylic = true,
